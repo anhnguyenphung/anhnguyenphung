@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the The University of Arizona.\
+🎓 &nbsp;I'm currently studying Computer Science, Mathematics, Data Science and Statistics at the The University of Arizona.\
 🌱 &nbsp;I’m interested in software engineer, data science, and date engineer roles.\
 💞️ &nbsp;I’m looking to collaborate on projects.\
 📄 &nbsp;For contact and more information about me, please have a look at my [website](http://anhnguyenphung.me/).
